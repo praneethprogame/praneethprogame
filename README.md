@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**praneethprogame/praneethprogame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there im praneethprogame 👋👋👋👋👋👋👋👋👋👋
+ 
+ # About Me
+ 
+ im praneethprogame i know
+ 
+ Node.js, HTML and CSS
+ 
+ I code discord bot and develop minecraft server
+ 
+ i made a few bots like Zane, Pokegrand helper and many more
+ 
+ i make minecraft servers too like windows minigames, powderSMP and many many more XD
+ 
+ hope u have a nice day byee👋👋👋👋👋👋👋
